@@ -1,0 +1,357 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Francisco dos Santos Júnior",
+      "nickname": "Júnio CD",
+      "img": "francisco.png",
+      "orcrimId": 1,
+      "status": "Regular"
+    },
+    {
+      "id": 2,
+      "name": "Wanderson Dantas da Conceição",
+      "nickname": "Coroa, Nino",
+      "img": "wanderson.png",
+      "orcrimId": 1,
+      "status": "Regular"
+    },
+    {
+      "id": 3,
+      "name": "Cauã de Carvalho Medrado",
+      "nickname": "",
+      "img": "caua.png",
+      "orcrimId": 1,
+      "status": "Regular"
+    },
+    {
+      "id": 4,
+      "name": "Diogenes Alberto de Carvalho Medrado",
+      "nickname": "",
+      "img": "diogenes.png",
+      "orcrimId": 1,
+      "status": "Regular"
+    },
+    {
+      "id": 5,
+      "name": "Herbert Augusto de Carvalho Medrado",
+      "nickname": "",
+      "img": "herbert.png",
+      "orcrimId": 1,
+      "status": "Regular"
+    }
+  ],
+  "orcrim": [
+    {
+      "id": 1,
+      "name": "Grupo de Chiquinho"
+    }
+  ],
+  "districts": [
+    {
+      "id": 1,
+      "name": "São Francisco",
+      "county": "São Francisco",
+      "quadrant": "1",
+      "type": "Distrito",
+      "population": 1000,
+      "geolocation": {
+        "type": "Point",
+        "coordinates": [
+          -47.33333,
+          -22.33333
+        ]
+      },
+      "distance_municipal": 22,
+      "signalPhone": 1,
+      "access": "Estrada de chão",
+      "freeMarket": 1,
+      "daysMarket": "Dom, Qua",
+      "school": 1,
+      "state": 1,
+      "municipal": 0,
+      "private": 0,
+      "hospital": 1,
+      "postOffice": 1,
+      "cashMachine": 1,
+      "cashMachineLocation": "São Francisco",
+      "banking": 1,
+      "bankingInstitution": "Banco do Brasil",
+      "lottery": 1,
+      "lotteryLocation": "São Francisco",
+      "fuelStation": 1,
+      "fuelStationLocation": "São Francisco",
+      "council": 1,
+      "councilLocation": "São Francisco",
+      "responsibleCouncilName": "",
+      "responsibleCouncilPhone": "",
+      "politicalId": 1,
+      "orcrimId": 1,
+      "orcrimDetails": "Detalhes da Orcrim",
+      "obs": "Observação",
+      "createdAt": "2021-01-01T00:00:00.000Z"
+    }
+  ],
+  "political": [
+    {
+      "id": 1,
+      "name": "São Francisco",
+      "phone": "123456789"
+    }
+  ],
+  "maps": [
+    {
+      "id": 1,
+      "title": "Density kernel example",
+      "description": "Density kernel example",
+      "slug": "density-kernel-example",
+      "type": "kde",
+      "data": [
+        {
+          "Nome": "Joaquim",
+          "latitude": -9.41211,
+          "longitude": -40.49483,
+          "intensidade": 10
+        },
+        {
+          "Nome": "José",
+          "latitude": -9.42268,
+          "longitude": -40.50078,
+          "intensidade": 10
+        },
+        {
+          "Nome": "Joaquim",
+          "latitude": -9.41211,
+          "longitude": -40.49484,
+          "intensidade": 10
+        },
+        {
+          "Nome": "José",
+          "latitude": -9.42268,
+          "longitude": -40.5008,
+          "intensidade": 10
+        },
+        {
+          "Nome": "João",
+          "latitude": -9.41599,
+          "longitude": -40.50202,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.4138,
+          "longitude": -40.50471,
+          "intensidade": 10
+        },
+        {
+          "Nome": "João",
+          "latitude": -9.41599,
+          "longitude": -40.50204,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.4138,
+          "longitude": -40.50469,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.42428,
+          "longitude": -40.5029,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.41623,
+          "longitude": -40.50049,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.41211,
+          "longitude": -40.49483,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.41177,
+          "longitude": -40.49982,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.42254,
+          "longitude": -40.49343,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.41509,
+          "longitude": -40.51575,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.41777,
+          "longitude": -40.5041,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.42359,
+          "longitude": -40.51025,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.44882,
+          "longitude": -40.52205,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.42936,
+          "longitude": -40.49337,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.41623,
+          "longitude": -40.00049,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.41371,
+          "longitude": -40.48835,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.44427,
+          "longitude": -40.49103,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.46552,
+          "longitude": -40.51029,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.41678,
+          "longitude": -40.52406,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.43892,
+          "longitude": -40.49398,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.4757548,
+          "longitude": -40.4777424,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.99601,
+          "longitude": -42.478507,
+          "intensidade": 10
+        },
+        {
+          "Nome": "Pilão Arcado",
+          "latitude": -9.99982,
+          "longitude": -42.48532,
+          "intensidade": 10
+        },
+        {
+          "latitude": -10.07099,
+          "longitude": -42.42911,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.74299,
+          "longitude": -42.83267,
+          "intensidade": 10
+        },
+        {
+          "latitude": -10.0711,
+          "longitude": -42.43099,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.91415,
+          "longitude": -42.9749,
+          "intensidade": 10
+        },
+        {
+          "latitude": -9.49956,
+          "longitude": -42.48641,
+          "intensidade": 10
+        },
+        {
+          "latitude": -10.14033,
+          "longitude": -43.31193,
+          "intensidade": 10
+        },
+        {
+          "latitude": -10.00359,
+          "longitude": -42.47641,
+          "intensidade": 10
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Marker example",
+      "description": "Mapa com marcadores",
+      "slug": "density-kernel-example",
+      "type": "marker",
+      "data": [
+        {
+          "id": 2,
+          "category": "CVLI",
+          "title": "Joaquim",
+          "description": "Marcador de CVLI",
+          "latitude": -9.41211,
+          "longitude": -40.49483
+        },
+        {
+          "id": 3,
+          "category": "CVLI",
+          "title": "Joaquim",
+          "description": "Marcador de CVLI",
+          "latitude": -9.42268,
+          "longitude": -40.50078
+        },
+        {
+          "id": 4,
+          "category": "CVLI",
+          "title": "Joaquim",
+          "description": "Marcador de CVLI",
+          "latitude": -9.41211,
+          "longitude": -40.49484
+        },
+        {
+          "id": 5,
+          "category": "CVLI",
+          "title": "Joaquim",
+          "description": "Marcador de CVLI",
+          "latitude": -9.42268,
+          "longitude": -40.5008
+        },
+        {
+          "id": 6,
+          "category": "CVLI",
+          "title": "Joaquim",
+          "description": "Marcador de CVLI",
+          "Nome": "João",
+          "latitude": -9.41599,
+          "longitude": -40.50202
+        },
+        {
+          "id": 7,
+          "category": "CVLI",
+          "title": "Joaquim",
+          "description": "Marcador de CVLI",
+          "latitude": -9.4138,
+          "longitude": -40.50471
+        },
+        {
+          "id": 8,
+          "category": "CVLI",
+          "title": "Joaquim",
+          "description": "Marcador de CVLI",
+          "Nome": "João",
+          "latitude": -9.41599,
+          "longitude": -40.50204
+        }
+      ]
+    }
+  ]
+}
