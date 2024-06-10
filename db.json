@@ -58,87 +58,23 @@
   "districts": [
     {
       "id": 1,
-      "quadrant": "1",
       "name": "Mandacaru",
       "county": "Juazeiro",
-      "type": "Distrito",
       "population": 2500,
       "geolocation": {
-        "type": "Point",
-        "icon": "district.png",
         "lat": -9.393437,
         "lon": -40.430524
-      },
-      "distanceMunicipal": 8,
-      "signalPhone": 1,
-      "accessCondition": "Asfalto",
-      "freeMarket": 1,
-      "daysMarket": "Dom, Qua",
-      "school": 1,
-      "state": 1,
-      "municipal": 0,
-      "private": 0,
-      "hospital": 1,
-      "postOffice": 1,
-      "cashMachine": 0,
-      "cashMachineLocation": "",
-      "banking": 1,
-      "bankingInstitution": "Banco do Brasil",
-      "lottery": 1,
-      "lotteryLocation": "São Francisco",
-      "fuelStation": 1,
-      "fuelStationLocation": "São Francisco",
-      "council": 1,
-      "councilLocation": "São Francisco",
-      "responsibleCouncilName": "",
-      "responsibleCouncilPhone": "",
-      "politicalId": 1,
-      "orcrimId": 1,
-      "orcrimDetails": "Detalhes da Orcrim",
-      "obs": "Observação",
-      "createdAt": "2021-01-01T00:00:00.000Z"
+      }
     },
     {
       "id": 2,
-      "quadrant": "1",
       "name": "Maniçoba",
       "county": "Juazeiro",
-      "type": "Distrito",
       "population": 5000,
       "geolocation": {
-        "type": "Point",
-        "icon": "district.png",
         "lat": -9.324668,
         "lon": -40.297171
-      },
-      "distanceMunicipal": 27,
-      "signalPhone": 1,
-      "access": "Asfalto",
-      "freeMarket": 1,
-      "daysMarket": "Dom, Qua",
-      "school": 1,
-      "state": 1,
-      "municipal": 0,
-      "private": 0,
-      "hospital": 1,
-      "postOffice": 1,
-      "cashMachine": 0,
-      "cashMachineLocation": "",
-      "banking": 1,
-      "bankingInstitution": "Banco do Brasil",
-      "lottery": 1,
-      "lotteryLocation": "São Francisco",
-      "fuelStation": 1,
-      "fuelStationLocation": "São Francisco",
-      "council": 1,
-      "councilLocation": "São Francisco",
-      "responsibleCouncilName": "",
-      "responsibleCouncilPhone": "",
-      "politicalId": 1,
-      "orcrimId": 1,
-      "orcrimDetails": "Detalhes da Orcrim",
-      "obs": "Observação",
-      "createdAt": "2021-01-01T00:00:00.000Z"
+      }
     }
   ],
   "ruralProperties": [
@@ -172,13 +108,6 @@
         "lat": -9.585924,
         "lon": -40.32868
       }
-    }
-  ],
-  "political": [
-    {
-      "id": 1,
-      "name": "São Francisco",
-      "phone": "123456789"
     }
   ]
 }
